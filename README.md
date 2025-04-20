@@ -1,5 +1,5 @@
 # Google Play Store Analysis Dashboard
-< "Gain Insights into App Downloads, Ratings, and User Engagement"
+>"Gain Insights into App Downloads, Ratings, and User Engagement"
 
 This project provides a comprehensive analysis of the Google Play Store dataset using Power BI.<br>
 The interactive dashboard offers insights into app categories, user ratings, reviews, installations, and more to help understand trends in mobile applications.<br>
